@@ -1,0 +1,22 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="src\Models\" />
+    <Folder Include="src\Algorithms\" />
+    <Folder Include="src\Service\" />
+    <Folder Include="src\View\" />
+    <Folder Include="src\ViewModels\" />
+    <Folder Include="src\Resources\" />
+    <Folder Include="src\" />
+  </ItemGroup>
+
+</Project>
+    

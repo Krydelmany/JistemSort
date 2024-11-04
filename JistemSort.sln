@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JistemSort", "JistemSort\JistemSort.csproj", "{521CFA3F-B638-46CB-9B87-71E6070FB00F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{521CFA3F-B638-46CB-9B87-71E6070FB00F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{521CFA3F-B638-46CB-9B87-71E6070FB00F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{521CFA3F-B638-46CB-9B87-71E6070FB00F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{521CFA3F-B638-46CB-9B87-71E6070FB00F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {62A8AC12-24CC-448C-BC4F-0DFB09DF94C3}
+	EndGlobalSection
+EndGlobal
